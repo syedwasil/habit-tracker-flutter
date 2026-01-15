@@ -13,20 +13,19 @@ A clean and minimal habit tracker built using Flutter.
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home.jpeg)
+<p float="left">
+  <img src="screenshots/home.jpeg" width="45%" />
+  <img src="screenshots/slide_delete.jpeg" width="45%" />
+</p>
 
-### Swipe To Delete
-![Swipe Delete](screenshots/slide_delete.jpeg)
+<p float="left">
+  <img src="screenshots/edit_task.jpeg" width="45%" />
+  <img src="screenshots/stats.jpeg" width="45%" />
+</p>
 
-### Edit Task
-![Edit Task](screenshots/edit_task.jpeg)
-
-### Progress & Stats
-![Stats](screenshots/stats.jpeg)
-
-### Hold To Rearrange
-![Stats](screenshots/hold_rearrange.jpeg)
+<p float="left">
+  <img src="screenshots/hold_rearrange.jpeg" width="45%" />
+</p>
 
 
 ## Tech Stack
